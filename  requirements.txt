@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 streamlit
 snowflake-snowpark-python
+=======
+snowflake-snowpark-python
+streamlit
+>>>>>>> 2305a2296e627bd832e538a974c3b518ec9dc0ba

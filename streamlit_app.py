@@ -13,7 +13,7 @@ st.write(
 )
 
 # Get the current credentials
-import streamlit as st
+
 
 name_on_order = st.text_input('Name on Smoothie');
 st.write('test', name_on_order );
